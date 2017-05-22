@@ -6180,6 +6180,18 @@
   ]
 },
 {
+  "id": "decoded",
+  "name": "Decoded",
+  "industry": "EduTech",
+  "station": "Old Street",
+  "adress": "25A Underwood St, London N1 7LG",
+  "technology": [
+    "Ruby",
+    "JavaScript",
+    "Python"
+  ]
+},
+{
   "id": "ed-aid",
   "name": "EdAid",
   "industry": "EduTech",
