@@ -294,6 +294,20 @@
   ]
 },
 {
+  "id": "fliplet",
+  "name": "Fliplet",
+  "industry": "Software & Developer Tools",
+  "station": "Angel",
+  "adress": "94 White Lion Street, London, N1 9PF",
+  "technology": [
+    "Docker",
+    "Node.js",
+    "Express",
+    "JavaScript",
+    "Vue.js"
+  ]
+},
+{
   "id": "wayfair",
   "name": "Wayfair",
   "industry": "eCommerce",
