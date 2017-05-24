@@ -4215,17 +4215,16 @@
 {
   "id": "ably-realtime",
   "name": "Ably Realtime",
-  "industry": "Data Analytics & Automation Tools",
-  "station": "Holloway Road",
-  "adress": "Net.Works,\n25 Horsell Rd,\nLondon,\nN5 1XL",
+  "industry": "Software & Developer Tools",
+  "station": "Camden Town",
+  "adress": "Interchange,\nStables Market, Chalk Farm Rd,\nLondon,\nNW1 8AB",
   "technology": [
-    "Ruby",
-    "LUA",
-    "Python",
+    "Cassandra",
+    "Node.js",
+    "Go",
     "Elixir",
-    "React Native",
-    "TypeScript",
-    "Cordova"
+    "Ruby",
+    "Python"
   ]
 },
 {
