@@ -752,10 +752,13 @@
   "name": "Streetbees",
   "industry": "MarTech",
   "station": "Barbican",
-  "adress": "StreetbeesRunway East10 Finsbury SquareLondon EC2A 1AF",
+  "adress": "4th Floor, 90-98 Goswell Rd, EC1V 7DF, London",
   "technology": [
     "Ruby",
-    "Elixir"
+    "Elixir",
+    "Node",
+    "React",
+    "JavaScript"
   ]
 },
 {
