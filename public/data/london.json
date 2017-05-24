@@ -1239,10 +1239,11 @@
   "name": "CrowdScores",
   "industry": "Travel & Leisure",
   "station": "Blackfriars",
-  "adress": "3rd floor, Fleet House,\n 8-12 New Bridge Street,\n London EC4V 6AL,",
+  "adress": "1st floor, Fleet House, 8-12 New Bridge Street, London EC4V 6AL",
   "technology": [
     "Python",
-    "Ruby",
+    "Java",
+    "Objective-C",
     "Swift"
   ]
 },
