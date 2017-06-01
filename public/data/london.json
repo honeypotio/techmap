@@ -717,12 +717,13 @@
   "id": "desk-pro",
   "name": "DeskPRO",
   "industry": "MarTech",
-  "station": "Barbican",
-  "adress": "1 East Poultry Avenue,\n London EC1A 9PT,",
+  "station": "Putney Bridge",
+  "adress": "81-83 Fulham High Street,\n London SW6 3JA,",
   "technology": [
     "PHP",
     "React",
-    "CoffeeScript"
+    "Symfony",
+    "Javascript"
   ]
 },
 {
