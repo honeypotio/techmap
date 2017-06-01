@@ -9682,4 +9682,17 @@
     "Python",
     "Angular"
   ]
-}]
+},
+{
+  "id": "trx",
+  "name": "trx.tv",
+  "industry": "Music & Media",
+  "station": "Temple",
+  "adress": "Somerset House, WC2R 1LA",
+  "technology": [
+    "Ruby on Rails",
+    "Vue.js",
+    "Elixir"
+  ]
+}
+]
