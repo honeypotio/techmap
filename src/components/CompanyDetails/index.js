@@ -53,7 +53,7 @@ const CompanyDetails = props => {
         </p>
         <p>
           <a
-            href={`https://maps.google.com/?q=${encodeURIComponent(company.adress)}`}
+            href={`https://maps.google.com/?q=${encodeURIComponent(company.address)}`}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -70,7 +70,7 @@ const CompanyDetails = props => {
                 fill={themeColor}
               />
             </svg>
-            <adress>{company.adress}</adress>
+            <address>{company.address}</address>
           </a>
         </p>
         <p>

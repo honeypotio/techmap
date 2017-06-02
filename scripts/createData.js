@@ -32,7 +32,7 @@ function transform() {
           name: jsonObj['Company'],
           industry: jsonObj['Industry'],
           station: jsonObj['Tube'],
-          adress: jsonObj['Address'],
+          address: jsonObj['Address'],
           technology: [
             // jsonObj['Frontend Language'],
             jsonObj['Backend Language'],
