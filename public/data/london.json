@@ -1690,13 +1690,18 @@
 },
 {
   "id": "fin-genius",
-  "name": "FinGenius",
-  "industry": "FinTech",
+  "name": "DigitalGenius",
+  "industry": "Custormer Services",
   "station": "Canary Wharf",
   "address": "Level 42\n One Canada Sqaure\n London, E14 5AB,",
   "technology": [
-    "PHP",
-    "Java"
+    "Scala",
+    "Python",
+    "torch",
+    "tensorflow",
+    "terraform",
+    "Javascript",
+    "Salesforce"
   ]
 },
 {
