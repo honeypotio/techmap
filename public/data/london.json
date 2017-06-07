@@ -4248,11 +4248,16 @@
   "id": "network-locum",
   "name": "Network Locum",
   "industry": "MedTech",
-  "station": "Hoxton",
-  "address": "71 Fanshaw St\n London\n N1 6LA\n ",
+  "station": "Old Street",
+  "address": "15 Bonhill Street, London. EC2A 4DN",
   "technology": [
     "Python",
-    "Go"
+    "Django",
+    "Go",
+    "iOS",
+    "Swift",
+    "Javascript",
+    "Angular"
   ]
 },
 {
