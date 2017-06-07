@@ -1048,7 +1048,10 @@
   "station": "Bermondsey",
   "address": "Keeton's Road, London. SE16 4EE",
   "technology": [
-    "PHP",
+    "Laravel", 
+    "PHP", 
+    "VueJS", 
+    ".Net", 
     "Java"
   ]
 },
