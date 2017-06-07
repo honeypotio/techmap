@@ -7248,10 +7248,12 @@
   "station": "Oxford Circus",
   "address": "Henry Wood House, 2 Riding House St, Marylebone, London W1W 7FA,",
   "technology": [
+    "Scala",
     "Java",
     "Python",
     "C++",
     "Go",
+    "JavaScript",
     "Angular",
     "Polymer",
     "React"
