@@ -423,8 +423,12 @@
   "station": "Angel",
   "address": "The Angel Building, 407 St John St, Clerkenwell, London EC1V 4EX,",
   "technology": [
-    "C#",
-    "Java"
+    "Java",
+    "Scala",
+    "JavaScript",
+    "Node.js",
+    "Docker",
+    "AWS"
   ]
 },
 {
