@@ -9702,5 +9702,19 @@
     "Vue.js",
     "Elixir"
   ]
+},
+{
+  "id": "localz",
+  "name": "Localz",
+  "industry": "Logistics, Delivery & On-Demand Services",
+  "station": "Holborn",
+  "address": "Localz, \nLevel 1, 240 High Holborn, \nLondon, WC1V 7DN",
+  "technology": [
+    "Node.js",
+    "React",
+    "Redux",
+    "Mongo",
+    "Postgres"
+  ]
 }
 ]
