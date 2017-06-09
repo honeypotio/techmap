@@ -6277,11 +6277,11 @@
   "id": "makers-academy",
   "name": "Makers Academy",
   "industry": "EduTech",
-  "station": "Old Street",
-  "address": "Aldgate East",
+  "station": "Aldgate East",
+  "address": "50 - 52 Commercial Street, London, E1 6LT",
   "technology": [
     "Ruby",
-    "React"
+    "JavaScript"
   ]
 },
 {
