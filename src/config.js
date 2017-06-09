@@ -57,6 +57,10 @@ export default {
       color: '#eb1564'
     },
     {
+      industry: 'Mobility',
+      color: '#8Cf1ff'
+    },
+    {
       industry: 'Music & Media',
       color: '#6cb961'
     },
