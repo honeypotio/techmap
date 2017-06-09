@@ -10,6 +10,17 @@
   ]
 },
 {
+  "id": "makers-academy",
+  "name": "Makers Academy",
+  "industry": "EduTech",
+  "station": "Aldgate East",
+  "address": "50 - 52 Commercial Street, London, E1 6LT",
+  "technology": [
+    "Ruby",
+    "JavaScript"
+  ]
+},
+{
   "id": "long-tail-sally",
   "name": "Long Tail Sally",
   "industry": "eCommerce",
