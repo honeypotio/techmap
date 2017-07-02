@@ -2272,8 +2272,8 @@
   "id": "paysafe",
   "name": "Paysafe",
   "industry": "FinTech",
-  "station": "Charing Cross",
-  "address": "London",
+  "station": "Canary Wharf",
+  "address": "27-25 Canada Square, 27th floor, London E14 5LQ",
   "technology": [
     "Java",
     "Angular"
