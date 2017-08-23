@@ -1,4 +1,18 @@
 [{
+  "id": "jamieai",
+  "name": "JamieAi",
+  "industry": "HRTech",
+  "station": "Bank",
+  "address": "7 Birchin Lane\nLondon\nEC3V 9BW",
+  "technology": [
+    "Python",
+    "Node.js",
+    "JavaScript",
+    "Swift",
+    "Kotlin"
+  ]
+},
+{
   "id": "onemarketdata",
   "name": "onemarketdata",
   "industry": "Data Analytics & Automation Tools",
