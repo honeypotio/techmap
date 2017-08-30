@@ -25,6 +25,10 @@ const routes = [
         component: require('./components/TechnologyList').default
       },
       {
+        path: 'search',
+        component: require('./components/Search').default
+      },
+      {
         path: 'technology/:technology',
         component: require('./components/CompanyList').default
       },

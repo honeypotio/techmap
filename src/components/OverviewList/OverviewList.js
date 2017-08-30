@@ -9,6 +9,7 @@ const OverviewList = () => (
     <PaneSubHeader title="Filter by" />
     <Item href="/london/industries" text="Industries" icon="business" />
     <Item href="/london/technologies" text="Technologies" icon="code" />
+    <Item href="/london/search" text="Search" icon="search" />
     <Footer>
       <p>
         Use the map to discover London companies by tech stack and location.
