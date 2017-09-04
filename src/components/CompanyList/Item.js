@@ -5,7 +5,6 @@ import styled from 'styled-components';
 
 const StyledLink = styled(Link)`
   color: #1f2228;
-  display: block;
   display: flex;
   align-items: flex-start;
   font-weight: 500;
