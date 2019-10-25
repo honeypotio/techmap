@@ -6523,9 +6523,12 @@
   "technology": [
     "JavaScript",
     "React",
-    "Ember.js",
-    "Backbone.js",
-    "Angular"
+    "Node.JS",
+    "Kubernetes",
+    "Google Cloud",
+    "MongoDB",
+    "Elasticsearch",
+    "kubernetes",
   ]
 },
 {
